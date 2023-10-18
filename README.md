@@ -17,6 +17,6 @@ Feel free to explore and contribute to my repositories. Here are some highlights
 4. [**Machine Learning Algorithms**](https://github.com/Vonjen-Vondul/Music_Recommendation_app): Implementations of classic ML algorithms in Python.
 
 ## Get in Touch
-I love collaborating with fellow developers, data enthusiasts, and anyone interested in tech. Don't hesitate to reach out and connect. You can also find me on [LinkedIn](#) and [Twitter](#).
+I love collaborating with fellow developers, data enthusiasts, and anyone interested in tech. Don't hesitate to reach out and connect. You can also find me on [LinkedIn](https://www.linkedin.com/in/vondul-vonjen-170661171/) and [WebSite](https://vonjen-vondul.github.io/VondulVonjen.github.io/).
 
 Thank you for visiting my GitHub. Happy coding! 🚀
